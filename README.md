@@ -1,5 +1,5 @@
 <h1 align="center">🧠 Sarowar Alam</h1>
-<h3 align="center">Artificial Intelligence Engineer • Machine Learning Researcher • Data Scientist</h3>
+<h3 align="center">Machine Learning • Deep Learning • Artificial Intelligence • Data Scientist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Deep+Learning+Researcher;Generative+AI+Builder;Data+Driven+Problem+Solver" />
