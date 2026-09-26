@@ -49,13 +49,13 @@ LLM-powered microservice deployed via Hugging Face.
 
 ## 🧪 Research & Industry Experience
 
-**AI Engineer — Labaid AI**
+**Data Scientist — Labaid AI**
 Built ML pipelines, deployed predictive models, delivered AI analytics.
 
-**AI Research — Clarkson University (USA)**
+**Research Assistant — Clarkson University (USA)**
 Developed fingerprint recognition deep learning algorithm.
 
-**Data Science Research — SIU (USA)**
+**Research Assistant — SIU (USA)**
 Applied AI to microbial detection & microfluidic systems.
 
 ---
